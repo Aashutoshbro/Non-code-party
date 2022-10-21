@@ -45,3 +45,9 @@ Answer: The match
 
 16. Riddle: A man dies of old age on his 25th birthday. How is this possible?
 Answer: He was born on February 29.
+
+17. Riddle: What can't you hold on your left hand?
+Answer: Your left hand itself.
+
+18. Riddle: A house is of square shape but all its sides are facing north, how is it possible?
+Answer: The house is on the south pole.
